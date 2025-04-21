@@ -1,6 +1,5 @@
-package test.ui;
+package ui.tests;
 
-import UiTests.TestsSetUp;
 import data.UserData;
 import io.qameta.allure.*;
 import io.qameta.allure.junit4.DisplayName;

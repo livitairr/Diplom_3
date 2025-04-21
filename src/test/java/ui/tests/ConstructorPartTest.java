@@ -1,4 +1,4 @@
-package UiTests;
+package ui.tests;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Epic;
